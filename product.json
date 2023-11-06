@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Nike-jorder",
+    "description": "it is one of best shoe in world",
+    "category": "shoes",
+    "price": 100000,
+    "cuttedPrice": 200000,
+    "stock": 4
+  },
+  {
+    "title": "Black shirt",
+    "description": "it is roadster black shirt",
+    "category": "Clothing",
+    "price": 1000,
+    "cuttedPrice": 1200,
+    "stock": 3
+  },
+  {
+    "title": "Blue shirt",
+    "description": "it is wrogn blue shirt",
+    "category": "shoes",
+    "price": 1500,
+    "cuttedPrice": 2000,
+    "stock": 4
+  },
+  {
+    "title": "pink shirt",
+    "description": "it is wrogn pink shirt",
+    "category": "shoes",
+    "price": 890,
+    "cuttedPrice": 2000,
+    "stock": 2
+  }
+
+]
